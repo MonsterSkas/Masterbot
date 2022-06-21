@@ -1,0 +1,30 @@
+{
+  "name": "ferrum-bot",
+  "version": "1.0.0",
+  "description": "Official discord bot of The Legendary Protector",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrn-gaming/Ferrum-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrn-gaming/Ferrum-Bot/issues"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  },
+  "homepage": "https://github.com/xrn-gaming/Ferrum-Bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
