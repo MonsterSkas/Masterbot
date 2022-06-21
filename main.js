@@ -2,8 +2,8 @@ const express = require('express');
 const app = express();
 
 const discord = require('discord.js');
-const dotenv = require('dotenv');
-dotenv.config();
+//const dotenv = require('dotenv');
+//dotenv.config();
 
 app.listen(3000, () => {
 
