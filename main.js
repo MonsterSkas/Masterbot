@@ -45,7 +45,7 @@ for (file of commands) {
 }
 
 //PREFIX
-const prefix = 'm.';
+const prefix = 'm!';
 
 //HELP
 client.on('messageCreate', (message) => {
